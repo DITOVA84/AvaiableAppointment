@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "proyect.java_f0094b26"
+        },
+        {
+            "type": "java",
+            "name": "UIMenu",
+            "request": "launch",
+            "mainClass": "UIMenu",
+            "projectName": "proyect.java_f0094b26"
+        },
+        {
+            "type": "java",
+            "name": "Modularidad",
+            "request": "launch",
+            "mainClass": "Modularidad",
+            "projectName": "proyect.java_f0094b26"
+        },
+        {
+            "type": "java",
+            "name": "mientras",
+            "request": "launch",
+            "mainClass": "mientras",
+            "projectName": "proyect.java_f0094b26"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "index",
+            "projectName": "proyect.java_f0094b26"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hola",
+            "request": "launch",
+            "mainClass": "Hola",
+            "projectName": "proyect.java_f0094b26"
+        }
+    ]
+}
